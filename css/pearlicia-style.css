@@ -1,0 +1,27 @@
+/** Add a comment at the beginning of your CSS styles with your name**/
+
+/*** Felicia's Advice ***/
+
+p {
+  background-color: #BE2900;
+  font-size: 18x;
+  color: #3E1C13;
+  letter-spacing: 0px;
+  text-align: center;
+  padding-top: 60px;
+}
+
+ h1 {
+  font-size: 30px;
+  text-align: center;
+  color: #3E0D00;
+  letter-spacing: 0px;
+}
+
+h4 {
+  font-size: 18x;
+  color: #3E0D00;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
